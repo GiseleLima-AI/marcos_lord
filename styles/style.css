@@ -12,6 +12,19 @@
     margin: 0;
     padding: 0;
 }
+@media (prefers-color-scheme: dark) {
+    :root {
+        --cor-primaria: #171515;
+        --cor-secundaria: #f6f6f6;
+        --cor-terciaria: #f10843;
+        --cor-hover: #272727;
+    }
+
+    html{
+        color-scheme: dark;
+    }
+}
+
 body {
     box-sizing: border-box;
     background-color: var(--cor-secundaria);
