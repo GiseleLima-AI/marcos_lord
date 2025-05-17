@@ -138,10 +138,10 @@ body {
 }
 .apresentacao__links {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
-    /*gap: 3px;*/
+    gap: 3px;
 }
 
 .apresentacao__links__subtitulo {
