@@ -87,6 +87,7 @@ body {
     font-size:1.2rem;
     font-weight: 200;
     font-family: var(--fonte-primaria);
+    text-align: center;
 }
 
 .apresentacao__conteudo__titulocard {
@@ -126,6 +127,7 @@ body {
     font-weight: 200;
     font-family: var(--fonte-secundaria);
     color: var(--cor-primaria);
+    padding: 15px; 
 }
 
 .apresentacao__conteudo__textlink {
@@ -250,7 +252,7 @@ body {
     width: 80%;
 }
     .imagem_geral {
-    max-width: 80%;
+    max-width: 50%;
     height: auto;
     border-radius: 10%;
     text-align: center;
