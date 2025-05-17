@@ -155,7 +155,7 @@ body {
 .apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
-    gap: 3px;
+    /*gap: 3px;*/
     width: 70%;
     /*border: 2px solid var(--cor-terciaria);
     border-radius: 9px;*/
