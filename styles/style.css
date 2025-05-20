@@ -84,6 +84,7 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
+    padding: 5% 0% 5% 0%;
     font-size:1.2rem;
     font-weight: 200;
     font-family: var(--fonte-primaria);
@@ -91,7 +92,7 @@ body {
 }
 
 .apresentacao__conteudo__titulocard {
-    padding: 5% 0% 5% 0%;;
+    padding: 5% 0% 5% 0%;
     font-size:1.2rem;
     font-weight: 200;
     font-family: var(--fonte-primaria);
