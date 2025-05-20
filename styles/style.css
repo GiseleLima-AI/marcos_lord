@@ -172,7 +172,7 @@ body {
     /*padding: 20px 20px 20px 0px;*/
 }
 
-.apresentacao__links__navegacao:visited {
+/*.apresentacao__links__navegacao:visited {
     background-color: var(--cor-terciaria);
     color:var(--cor-secundaria);
     text-decoration: none;
@@ -181,7 +181,7 @@ body {
     background-color: var(--cor-terciaria);
     color:var(--cor-secundaria);
     text-decoration: none;
-} 
+} */
 
 .apresentacao__imagem {
     width: 50%;
