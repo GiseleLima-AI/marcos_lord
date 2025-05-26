@@ -80,7 +80,7 @@ body {
     text-align: center;
     display: flex;
     flex-direction:column;
-    gap: 40px;
+    gap: 3px;
 }
 
 .apresentacao__conteudo__titulo {
@@ -247,9 +247,14 @@ body {
         padding: 1%;
     }
 
-    .apresentacao__conteudo {
-        width: 90%;
-    }
+     .apresentacao__conteudo {
+    width: 90%;
+    font-style: normal;
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    gap: 40px;
+}
     
     .apresentacao__imagem {
     width: 60%;
