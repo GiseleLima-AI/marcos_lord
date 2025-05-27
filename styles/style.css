@@ -247,12 +247,11 @@ body {
         padding: 1%;
     }
 
-     .apresentacao__conteudo {
+    .apresentacao__conteudo {
     width: 90%;
     font-style: normal;
-    text-align: center;
     display: flex;
-    flex-direction:column;
+    flex-direction: column;
     gap: 40px;
 }
     
