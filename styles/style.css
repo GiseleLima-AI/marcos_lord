@@ -80,7 +80,7 @@ body {
     text-align: center;
     display: flex;
     flex-direction:column;
-    gap: 3px;
+    gap: 32px;
 }
 
 .apresentacao__conteudo__titulo {
@@ -92,7 +92,7 @@ body {
 }
 
 .apresentacao__conteudo__titulocard {
-    padding: 5% 0% 5% 0%;
+    /*padding: 5% 0% 5% 0%;*/
     font-size:1.2rem;
     font-weight: 200;
     font-family: var(--fonte-primaria);
@@ -130,7 +130,7 @@ body {
     font-weight: 200;
     font-family: var(--fonte-secundaria);
     color: var(--cor-primaria);
-    padding: 15px; 
+    /*padding: 15px;*/ 
 }
 
 .apresentacao__conteudo__textlink {
