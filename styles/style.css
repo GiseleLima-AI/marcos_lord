@@ -31,8 +31,15 @@ body {
     color: var(--cor-primaria);
 }
 
-.imagem_geral {
+.imagem_about {
   max-width: 35%;
+  padding: 5%;
+  height: auto;
+  border-radius: 15%;
+}
+
+.imagem_cards {
+  max-width: 50%;
   padding: 5%;
   height: auto;
   border-radius: 15%;
@@ -258,10 +265,17 @@ body {
     .apresentacao__imagem {
     width: 60%;
 }
-    .imagem_geral {
-    max-width: 50%;
+
+    .imagem_about {
+    max-width: 35%;
+    padding: 5%;
     height: auto;
-    border-radius: 10%;
-    text-align: center;
+    border-radius: 15%;
+}
+    .imagem_cards {
+    max-width: 50%;
+    padding: 5%;
+    height: auto;
+    border-radius: 15%;
 }
 }
